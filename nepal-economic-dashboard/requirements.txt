@@ -1,0 +1,16 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+xgboost>=2.0
+lightgbm>=4.0
+statsmodels>=0.14
+prophet>=1.1
+streamlit>=1.35
+fastapi>=0.111
+uvicorn[standard]>=0.30
+plotly>=5.22
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.4
+python-multipart>=0.0.9
+pydantic>=2.7
